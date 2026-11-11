@@ -5,7 +5,7 @@ requires-python = ">=3.11,<3.13"
 dependencies = [
     "anthropic>=0.71.0",
     "ipykernel>=7.1.0",
-    "notebook>=7.4.7",
+    "notebook>=7.6.5",
     "numpy>=2.3.4",
     "pandas>=2.3.3",
     "jupyter>=1.1.1",
@@ -24,7 +24,7 @@ dev = [
     "pytest>=8.3.3",
     "nbval>=0.11.0",
     "pre-commit>=3.8.0",
-    "nbconvert>=7.16.0",
+    "nbconvert>=7.17.2",
     "pyyaml>=6.0.3",
     "tox>=4.32.0",
     "tox-uv>=1.29.0",
